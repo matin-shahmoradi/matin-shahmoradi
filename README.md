@@ -3,7 +3,8 @@ About me
 
     I'm Matin Shahmoradi, a intern .NET developer based in Iran
 
-    My primary focus is mastering the fundamentals of software engineering, writing maintainable code. I am dedicated to gaining professional experience and expanding my expertise in [Core Technology/Language].
+    My primary focus is mastering the fundamentals of software engineering, writing maintainable code.
+    I am dedicated to gaining professional experience and expanding my expertise in C# , ASP.Net core.
 
 Technical Skills
 
