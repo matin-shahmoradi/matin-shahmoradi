@@ -15,7 +15,7 @@ Technical Skills
     
 Current Focus
 
-    Learning: Actively studying microservices to improve my architectural knowledge.
+    Learning: Actively studying distibuted systems and microservices to improve my architectural knowledge.
     Goals: Contributing to open-source projects and refining my ability to build scalable systems.
 
 Contact
